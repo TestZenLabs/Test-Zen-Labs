@@ -1,0 +1,10 @@
+C:\Users\mthummal\Desktop\C#Basics\Basics\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\mthummal\Desktop\C#Basics\Basics\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\mthummal\Desktop\C#Basics\Basics\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\mthummal\Desktop\C#Basics\Basics\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\mthummal\Desktop\C#Basics\Basics\AbstractClasses\obj\Debug\AbstractClasses.pdb
+C:\Users\mthummal\Desktop\C#Basics\OOPS\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\mthummal\Desktop\C#Basics\OOPS\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\mthummal\Desktop\C#Basics\OOPS\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\mthummal\Desktop\C#Basics\OOPS\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\mthummal\Desktop\C#Basics\OOPS\AbstractClasses\obj\Debug\AbstractClasses.pdb
